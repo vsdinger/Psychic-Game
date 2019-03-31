@@ -1,0 +1,22 @@
+h1{
+    border: 5px solid black;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    height: 150px;
+    width: 90%
+
+}
+
+/* <p id="What Letter thinking of?">What Letter thinking of?</p> */
+#What Letter thinking of?{
+    border: 5px solid black;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    height: 150px;
+    width: 90%;
+}
